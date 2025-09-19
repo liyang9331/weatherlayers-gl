@@ -1,0 +1,4 @@
+.fps-control > div {
+  position: static !important;
+  display: inline-block;
+}
